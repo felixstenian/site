@@ -43,22 +43,28 @@ export default class Main extends Component {
           <strong>Developer Web</strong>
           <ul>
             <li>
-              <a href="/">
+              <a
+                href="https://www.linkedin.com/in/felixstenian"
+                target="_black"
+              >
                 <FaLinkedin size={22} />
               </a>
             </li>
             <li>
-              <a href="/">
+              <a href="https://github.com/felixstenian" target="_black">
                 <FaGithub size={22} />
               </a>
             </li>
             <li>
-              <a href="/">
+              <a href="mailto:felixstenian@gmail.com.br" target="_black">
                 <FaMailBulk size={22} />
               </a>
             </li>
             <li>
-              <a href="/">
+              <a
+                href="https://wa.me/5582988507881?text=Olá%20Felix !"
+                target="_black"
+              >
                 <FaWhatsappSquare size={22} />
               </a>
             </li>
