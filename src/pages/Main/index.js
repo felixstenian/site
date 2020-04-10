@@ -32,9 +32,6 @@ export default class Main extends Component {
   render() {
     const { profile, repositories } = this.state;
 
-    console.log(profile);
-    console.log(repositories);
-
     return (
       <Container>
         <header>
