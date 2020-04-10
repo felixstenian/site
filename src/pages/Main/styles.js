@@ -24,7 +24,12 @@ export const Container = styled.div`
     }
 
     h1 {
-      color: #fff;
+      color: #fafafa;
+    }
+
+    strong {
+      font-size: 18px;
+      color: rgba(0, 0, 0, 0.4);
     }
 
     ul {
