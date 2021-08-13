@@ -37,7 +37,7 @@ export default class Main extends Component {
         <header>
           <img src={profile.avatar_url} alt="Felix" />
           <h1>{profile.name}</h1>
-          <strong>Developer Web</strong>
+          <strong>Software Developer</strong>
           <ul>
             <li>
               <a
