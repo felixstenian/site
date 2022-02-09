@@ -57,14 +57,6 @@ export default class Main extends Component {
                 <FaMailBulk size={22} />
               </a>
             </li>
-            <li>
-              <a
-                href="https://wa.me/5582988507881?text=Olá%20Felix !"
-                target="_black"
-              >
-                <FaWhatsappSquare size={22} />
-              </a>
-            </li>
           </ul>
         </header>
         <Content></Content>
