@@ -3,6 +3,8 @@ import { createGlobalStyle } from "styled-components";
 export default createGlobalStyle`
   /** Importando fonte */
   @import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+  @import "react-loader-spinner/dist/loader/css/react-spinner-loader.css";
+
 
   /** Reset */
   * {
