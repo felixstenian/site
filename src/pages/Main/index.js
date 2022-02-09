@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import {
   FaGithub,
   FaLinkedin,
-  FaWhatsappSquare,
   FaMailBulk,
 } from "react-icons/fa";
 
