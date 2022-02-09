@@ -53,7 +53,7 @@ export default class Main extends Component {
               </a>
             </li>
             <li>
-              <a href="mailto:felixstenian@gmail.com.br" target="_black">
+              <a href="mailto:felixstenian.dev@gmail.com.br" target="_black">
                 <FaMailBulk size={22} />
               </a>
             </li>
